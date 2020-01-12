@@ -5,3 +5,5 @@ kheer
 pasta
 maggi
 macroni
+pizza
+burger
